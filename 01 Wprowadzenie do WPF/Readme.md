@@ -68,3 +68,18 @@ namespace SDKSample
 ```
 
 ![image](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/media/index/markup-window-button-clicked.png)
+
+## Wbudowane w WPF kontrolki:
+- Guziki (Buttons): `Button`, `RepeatButton`.
+- Wyświetlanie danych (Data Display): `DataGrid`, `ListView`, `TreeView`.
+- Wyświetlanie danych i wybór (Date Display and Selection): `Calendar`, `DatePicker`.
+- Okna dialogowe (Dialog Boxes): `OpenFileDialog`, `PrintDialog`, `SaveFileDialog`.
+- Cyfrowy kałamarz (Digital Ink): `InkCanvas`, `InkPresenter`.
+- Dokumenty (Documents): `DocumentViewer`, `FlowDocumentPageViewer`, `FlowDocumentReader`, `FlowDocumentScrollViewer`, `StickyNoteControl`.
+- Wprowadzanie (Input): `TextBox`, `RichTextBox`, `PasswordBox`.
+- Układ (Layout): `Border`, `BulletDecorator`, `Canvas`, `DockPanel`, `Expander`, `Grid`, `GridView`, `GridSplitter`, `GroupBox`, `Panel`, `ResizeGrip`, `Separator`, `ScrollBar`, `ScrollViewer`, `StackPanel`, `Thumb`, `Viewbox`, `VirtualizingStackPanel`, `Window`, `WrapPanel`.
+- Media: `Image`, `MediaElement`, `SoundPlayerAction`.
+- Menus: `ContextMenu`, `Menu`, `ToolBar`.
+- Navigation: `Frame`, `Hyperlink`, `Page`, `NavigationWindow`, `TabControl`.
+- Wybór (Selection): `CheckBox`, `ComboBox`, `ListBox`, `RadioButton`, `Slider`.
+- Informacja użytkownika (User Information): `AccessText`, `Label`, `Popup`, `ProgressBar`, `StatusBar`, `TextBlock`, `ToolTip`.
